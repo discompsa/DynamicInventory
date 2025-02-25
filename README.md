@@ -1,1 +1,1 @@
-# DynamicInventory
+# DynamicInventory - FrontEnd
